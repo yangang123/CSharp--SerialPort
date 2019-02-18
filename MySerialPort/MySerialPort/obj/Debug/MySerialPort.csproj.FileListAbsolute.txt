@@ -8,3 +8,13 @@ C:\Users\Administrator\Desktop\MySerialPort\MySerialPort\MySerialPort\obj\Debug\
 C:\Users\Administrator\Desktop\MySerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\MySerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.exe
 C:\Users\Administrator\Desktop\MySerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.pdb
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\bin\Debug\MySerialPort.exe.config
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\bin\Debug\MySerialPort.exe
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\bin\Debug\MySerialPort.pdb
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.csprojAssemblyReference.cache
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.Form1.resources
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.Properties.Resources.resources
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.csproj.GenerateResource.cache
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.csproj.CoreCompileInputs.cache
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.exe
+D:\software\CSharp--SerialPort\MySerialPort\MySerialPort\obj\Debug\MySerialPort.pdb
